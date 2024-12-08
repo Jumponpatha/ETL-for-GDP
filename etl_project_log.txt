@@ -1,0 +1,39 @@
+2024-Nov-01-00:56:56 : Preliminaries complete. Initial ETL process
+2024-Nov-01-00:56:57 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:04:01 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:04:02 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:05:06 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:05:07 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:06:24 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:06:27 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:06:27 : Data transformation complete. Initiating loading process
+2024-Nov-01-02:07:06 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:07:07 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:07:07 : Data transformation complete. Initiating loading process
+2024-Nov-01-02:07:07 : Data saved to CSV file
+2024-Nov-01-02:08:01 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:08:01 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:08:01 : Data transformation complete. Initiating loading process
+2024-Nov-01-02:08:01 : Data saved to CSV file
+2024-Nov-01-02:08:34 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:08:35 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:08:35 : Data transformation complete. Initiating loading process
+2024-Nov-01-02:08:35 : Data saved to CSV file
+2024-Nov-01-02:08:35 : SQL Connection initiated.
+2024-Nov-01-02:09:04 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:09:06 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:09:06 : Data transformation complete. Initiating loading process
+2024-Nov-01-02:09:06 : Data saved to CSV file
+2024-Nov-01-02:09:06 : SQL Connection initiated.
+2024-Nov-01-02:09:15 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:09:19 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:09:19 : Data transformation complete. Initiating loading process
+2024-Nov-01-02:09:19 : Data saved to CSV file
+2024-Nov-01-02:09:19 : SQL Connection initiated.
+2024-Nov-01-02:09:56 : Preliminaries complete. Initial ETL process
+2024-Nov-01-02:10:28 : Data extraction complete. Initiating Transformation process
+2024-Nov-01-02:10:28 : Data transformation complete. Initiating loading process
+2024-Nov-01-02:10:28 : Data saved to CSV file
+2024-Nov-01-02:10:28 : SQL Connection initiated.
+2024-Nov-01-02:10:28 : Data loaded to Database as table. Running the query
+2024-Nov-01-02:10:28 : Process Complete.
